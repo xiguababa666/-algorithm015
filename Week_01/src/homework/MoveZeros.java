@@ -1,3 +1,4 @@
+package homework;
 
 /**
  * description
@@ -5,7 +6,7 @@
  * @author xyx
  * @date 2020/8/24 19:40
  */
-public class ZeroMove {
+public class MoveZeros {
 
     public void moveZeroes(int[] nums) {
 
@@ -67,7 +68,7 @@ public class ZeroMove {
 
         int[] arr = new int[] {0,1,0,0,2,3,0,4,0,0,0,5,6,0,7,8};
 
-        new ZeroMove().moveZeroes(arr);
+        new MoveZeros().moveZeroes(arr);
 
         for (int i : arr) {
             System.out.print(i);
