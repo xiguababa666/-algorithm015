@@ -3,6 +3,9 @@ import java.util.List;
 import java.util.Stack;
 
 
+/**
+ * 二叉树中序遍历
+ * */
 public class BinaryBreeInorderTraversal {
 
 
@@ -66,6 +69,18 @@ public class BinaryBreeInorderTraversal {
         }
     }
 
+
+    static class TreeNode {
+
+        int val;
+        TreeNode left;
+        TreeNode right;
+
+        TreeNode(int x) {
+            val = x;
+        }
+
+    }
 
 
 
