@@ -3,6 +3,8 @@ import java.util.*;
 /**
  * 429. N叉树的层序遍历
  *
+ * 类似广度优先遍历
+ *
  * @author xyx
  * @date 2020/9/2 18:14
  */
@@ -82,9 +84,9 @@ public class NAryTreeLevelOrderTraversal {
     static class QNode {
         Node n;
         int lv;
-        QNode(Node n, int color) {
+        QNode(Node n, int lv) {
             this.n = n;
-            this.lv = color;
+            this.lv = lv;
         }
     }
 
