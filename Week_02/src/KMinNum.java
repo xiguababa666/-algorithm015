@@ -92,6 +92,9 @@ public class KMinNum {
         return ret;
     }
 
+    /**
+     * 快排
+     * */
     private void quick(int[] arr, int start, int end) {
         if (start >= end) return;
         int i = start, j = end;
