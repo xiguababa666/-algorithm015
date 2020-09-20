@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2198060-e941-4537-87da-bb5b908fbb92" name="Default Changelist" comment="最小K个数">
-      <change afterPath="$PROJECT_DIR$/Week_04/src/AssignCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/BestTimeToBuyAndSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/FindMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/JumpGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/LemonadeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/Minesweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/SearchA2dMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/Sqrtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/src/WordLadder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm015.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm015.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +27,7 @@
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
           <entry key="java" value="85" />
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
@@ -48,7 +36,7 @@
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="85" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
@@ -68,15 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_04/src/JumpGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_04/src/FindMinimumInRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,11 +135,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_04/src/Minesweeper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -233,6 +221,7 @@
         <option value="$PROJECT_DIR$/Week_04/src/JumpGameII.java" />
         <option value="$PROJECT_DIR$/Week_04/src/WordLadder.java" />
         <option value="$PROJECT_DIR$/Week_04/src/Minesweeper.java" />
+        <option value="$PROJECT_DIR$/Week_04/README.md" />
       </list>
     </option>
   </component>
@@ -272,12 +261,6 @@
               <item name="algorithm015" type="462c0819:PsiDirectoryNode" />
               <item name="Week_04" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm015" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm015" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -288,7 +271,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600600122693" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600604179244" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -462,14 +445,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.4165605" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4165605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
       <window_info anchor="bottom" id="Gerrit" order="8" />
       <window_info anchor="bottom" id="JProfiler" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4165605" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -546,13 +529,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/gerrit_workspace/ly-performance-java/service/src/main/java/com/xinche/sclv/performance/service/oop/DemandStatusEnumOo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dictionaries/xueyongxin.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -912,8 +888,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_04/src/Minesweeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
